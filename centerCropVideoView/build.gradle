@@ -1,4 +1,16 @@
 apply plugin: 'com.android.library'
+apply plugin: 'com.novoda.bintray-release'
+
+publish {
+    userOrg = 'mabi87'
+    groupId = 'com.crust87'
+    artifactId = 'center-crop-video-view'
+    publishVersion = '1.0.0'
+    desc = 'TextureVideoView with CenterCrop'
+    website = 'https://github.com/crust87/Android-CenterCropVideoView'
+    issueTracker = "${website}/issues"
+    repository = "${website}.git"
+}
 
 android {
     compileSdkVersion 23
@@ -8,7 +20,7 @@ android {
         minSdkVersion 15
         targetSdkVersion 23
         versionCode 1
-        versionName "1.0"
+        versionName "1.0.0"
     }
     buildTypes {
         release {
