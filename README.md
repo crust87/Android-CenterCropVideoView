@@ -16,7 +16,7 @@ repositories {
 and
 
 ``` groovy
-// compile 'com.crust87:center-crop-video-view:1.0.0'
+compile 'com.crust87:center-crop-video-view:1.0.0'
 ```
 
 see sample code
