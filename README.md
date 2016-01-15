@@ -10,7 +10,7 @@ compile 'com.crust87:center-crop-video-view:1.0.0'
 
 see sample code
 
-## Licence
+## License
 Copyright 2015 Mabi
 
 Licensed under the Apache License, Version 2.0 (the "License");<br/>
