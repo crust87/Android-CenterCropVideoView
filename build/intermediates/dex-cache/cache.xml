@@ -2,6 +2,27 @@
 <items version="2" >
 
     <item
+        jar="/Users/mabi/AndroidStudioProjects/Android-CenterCropVideoView/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="/Users/mabi/AndroidStudioProjects/Android-CenterCropVideoView/app/build/intermediates/pre-dexed/debug/classes-0460f41dbc08debeca3324c859ad29201db2805f.jar" />
+    </item>
+    <item
+        jar="/Users/mabi/AndroidStudioProjects/Android-CenterCropVideoView/app/build/intermediates/exploded-aar/Android-CenterCropVideoView/centerCropVideoView/unspecified/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d2dbbe03ce7daf89e2c60b709f5e5d14748c1b62">
+        <dex dex="/Users/mabi/AndroidStudioProjects/Android-CenterCropVideoView/app/build/intermediates/pre-dexed/debug/classes-0f3590b53be2216e71f21e39920dbb02b0a70d8b.jar" />
+    </item>
+    <item
+        jar="/Users/mabi/AndroidStudioProjects/Android-CenterCropVideoView/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/jars/classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="/Users/mabi/AndroidStudioProjects/Android-CenterCropVideoView/app/build/intermediates/pre-dexed/debug/classes-b4f34f48cbab3092140ab17d7ca5248dd4239ac5.jar" />
+    </item>
+    <item
         jar="/Users/mabi/AndroidStudioProjects/Android-CenterCropVideoView/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/libs/internal_impl-23.1.1.jar"
         jumboMode="false"
         revision="23.0.2"
@@ -14,27 +35,6 @@
         revision="23.0.2"
         sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
         <dex dex="/Users/mabi/AndroidStudioProjects/Android-CenterCropVideoView/app/build/intermediates/pre-dexed/debug/support-annotations-23.1.1-003bbd3c4de1401ff68178a24b2230f0d766ebac.jar" />
-    </item>
-    <item
-        jar="/Users/mabi/AndroidStudioProjects/Android-CenterCropVideoView/app/build/intermediates/exploded-aar/com.android.support/support-v4/23.1.1/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
-        <dex dex="/Users/mabi/AndroidStudioProjects/Android-CenterCropVideoView/app/build/intermediates/pre-dexed/debug/classes-0460f41dbc08debeca3324c859ad29201db2805f.jar" />
-    </item>
-    <item
-        jar="/Users/mabi/AndroidStudioProjects/Android-CenterCropVideoView/app/build/intermediates/exploded-aar/Android-CenterCropVideoView/centerCropVideoView/unspecified/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="99334fc3ed4e49d5f4caf9c8780887680135c20e">
-        <dex dex="/Users/mabi/AndroidStudioProjects/Android-CenterCropVideoView/app/build/intermediates/pre-dexed/debug/classes-0f3590b53be2216e71f21e39920dbb02b0a70d8b.jar" />
-    </item>
-    <item
-        jar="/Users/mabi/AndroidStudioProjects/Android-CenterCropVideoView/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.1.1/jars/classes.jar"
-        jumboMode="false"
-        revision="23.0.2"
-        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
-        <dex dex="/Users/mabi/AndroidStudioProjects/Android-CenterCropVideoView/app/build/intermediates/pre-dexed/debug/classes-b4f34f48cbab3092140ab17d7ca5248dd4239ac5.jar" />
     </item>
 
 </items>
