@@ -1,5 +1,6 @@
-# Android-CenterCropVideoView
-TextureVideoView with CenterCrop
+# Android-CenterCropVideoView DEPRECATED
+See TextureVideoView
+https://github.com/crust87/Android-TextureVideoView
 
 ## Example
 
